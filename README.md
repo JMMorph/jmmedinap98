@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Medina
-- 👀 I’m interested in a lot of things, 
-- 🌱 I’m currently learning cloud fundamentals on Azure and Google Cloud, Multi-objective optimizacion and plants electrophysiology 
+- 👀 I’m interested in a lot of things, about technology: IA/ML, cloud computing and data science, other stuff: 3D modelling (parametric and organic), creative coding, 3D animation and more...
+- 🌱 I’m currently learning cloud fundamentals on Azure and Google Cloud, Multi-objective optimization and plants electrophysiology 
 - 💞️ I’m looking to collaborate on any project related with creative coding and IA/ML algorithms 
 - 📫 How to reach me:
 twitter: https://twitter.com/Morphinart
